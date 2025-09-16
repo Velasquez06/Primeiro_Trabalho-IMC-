@@ -27,3 +27,27 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Diretórios de compilação
+/out/
+target/
+
+# Arquivos de log
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Dependências / builds
+*.class
+*.jar
+*.war
+*.ear
+/build/
+.gradle/
+mvnw
+.mvn/
